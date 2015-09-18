@@ -1,0 +1,497 @@
+[17-Sep-2015 06:17:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/todoList/login.php on line 5
+[17-Sep-2015 06:17:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:17:06 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/todoList/login.php:5
+[17-Sep-2015 06:17:06 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 6
+[17-Sep-2015 06:17:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:17:06 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/todoList/login.php:6
+[17-Sep-2015 06:17:06 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/login.php on line 9
+[17-Sep-2015 06:17:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:17:06 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/login.php:9
+[17-Sep-2015 06:17:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/login.php on line 9
+[17-Sep-2015 06:17:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:17:06 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/login.php:9
+[17-Sep-2015 06:17:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 10
+[17-Sep-2015 06:17:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:17:06 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/login.php:10
+[17-Sep-2015 06:17:06 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 31
+[17-Sep-2015 06:17:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:17:06 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/todoList/login.php:31
+[17-Sep-2015 06:18:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'jauzmendiji'@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/login.php on line 5
+[17-Sep-2015 06:18:03 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:03 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/todoList/login.php:5
+[17-Sep-2015 06:18:03 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 6
+[17-Sep-2015 06:18:03 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:03 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/todoList/login.php:6
+[17-Sep-2015 06:18:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/login.php on line 9
+[17-Sep-2015 06:18:03 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:03 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/login.php:9
+[17-Sep-2015 06:18:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/login.php on line 9
+[17-Sep-2015 06:18:03 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:03 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/login.php:9
+[17-Sep-2015 06:18:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 10
+[17-Sep-2015 06:18:03 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:03 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/login.php:10
+[17-Sep-2015 06:18:03 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 31
+[17-Sep-2015 06:18:03 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:03 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/todoList/login.php:31
+[17-Sep-2015 06:18:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'jauzmendiji'@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/login.php on line 5
+[17-Sep-2015 06:18:10 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:10 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/todoList/login.php:5
+[17-Sep-2015 06:18:10 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 6
+[17-Sep-2015 06:18:10 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:10 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/todoList/login.php:6
+[17-Sep-2015 06:18:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/login.php on line 9
+[17-Sep-2015 06:18:10 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/login.php:9
+[17-Sep-2015 06:18:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/login.php on line 9
+[17-Sep-2015 06:18:10 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/login.php:9
+[17-Sep-2015 06:18:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 10
+[17-Sep-2015 06:18:10 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:10 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/login.php:10
+[17-Sep-2015 06:18:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 31
+[17-Sep-2015 06:18:10 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:10 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/todoList/login.php:31
+[17-Sep-2015 06:18:39 UTC] PHP Warning:  mysql_connect(): Access denied for user 'jauzmendiji'@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/login.php on line 5
+[17-Sep-2015 06:18:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:39 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/todoList/login.php:5
+[17-Sep-2015 06:18:39 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 6
+[17-Sep-2015 06:18:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:39 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/todoList/login.php:6
+[17-Sep-2015 06:18:39 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/login.php on line 9
+[17-Sep-2015 06:18:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:39 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/login.php:9
+[17-Sep-2015 06:18:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/login.php on line 9
+[17-Sep-2015 06:18:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:39 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/login.php:9
+[17-Sep-2015 06:18:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 10
+[17-Sep-2015 06:18:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:39 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/login.php:10
+[17-Sep-2015 06:18:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/login.php on line 31
+[17-Sep-2015 06:18:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:18:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/login.php:0
+[17-Sep-2015 06:18:39 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/todoList/login.php:31
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/todoList/verListas.php on line 9
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/todoList/verListas.php:9
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 10
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/todoList/verListas.php:10
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/verListas.php on line 13
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/verListas.php:13
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/verListas.php on line 13
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/verListas.php:13
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/verListas.php on line 21
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/verListas.php:21
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/verListas.php on line 21
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/verListas.php:21
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:21:16 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 38
+[17-Sep-2015 06:21:16 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:16 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/todoList/verListas.php:38
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/todoList/verListas.php on line 9
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/todoList/verListas.php:9
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 10
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/todoList/verListas.php:10
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/verListas.php on line 13
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/verListas.php:13
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/verListas.php on line 13
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/verListas.php:13
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/verListas.php on line 21
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/verListas.php:21
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/verListas.php on line 21
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/verListas.php:21
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:21:49 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 38
+[17-Sep-2015 06:21:49 UTC] PHP Stack trace:
+[17-Sep-2015 06:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:21:49 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/todoList/verListas.php:38
+[17-Sep-2015 06:22:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:22:14 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:14 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:22:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:22:14 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:14 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:22:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:22:17 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:17 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:22:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:22:17 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:17 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:22:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:22:18 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:18 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:22:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:22:18 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:18 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:22:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:22:19 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:19 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:22:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:22:19 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:19 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:22:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:22:19 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:19 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:22:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:22:19 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:19 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:22:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:22:33 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:33 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:22:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:22:33 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:33 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:22:39 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/todoList/nLista.php on line 5
+[17-Sep-2015 06:22:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:22:39 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/todoList/nLista.php:5
+[17-Sep-2015 06:22:39 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 6
+[17-Sep-2015 06:22:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:22:39 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/todoList/nLista.php:6
+[17-Sep-2015 06:22:39 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 8
+[17-Sep-2015 06:22:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:22:39 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:8
+[17-Sep-2015 06:22:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 8
+[17-Sep-2015 06:22:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:22:39 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:8
+[17-Sep-2015 06:22:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 9
+[17-Sep-2015 06:22:39 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:22:39 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/todoList/nLista.php:9
+[17-Sep-2015 06:22:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:22:42 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:42 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:22:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:22:42 UTC] PHP Stack trace:
+[17-Sep-2015 06:22:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:22:42 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:23:09 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/todoList/nLista.php on line 5
+[17-Sep-2015 06:23:09 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:23:09 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/todoList/nLista.php:5
+[17-Sep-2015 06:23:09 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 6
+[17-Sep-2015 06:23:09 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:23:09 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/todoList/nLista.php:6
+[17-Sep-2015 06:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 8
+[17-Sep-2015 06:23:09 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:23:09 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:8
+[17-Sep-2015 06:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 8
+[17-Sep-2015 06:23:09 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:23:09 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:8
+[17-Sep-2015 06:23:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 9
+[17-Sep-2015 06:23:09 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[17-Sep-2015 06:23:09 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/todoList/nLista.php:9
+[17-Sep-2015 06:23:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:23:22 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:23:22 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:23:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:23:22 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:23:22 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:23:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:23:42 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:23:42 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:23:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:23:42 UTC] PHP Stack trace:
+[17-Sep-2015 06:23:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:23:42 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:24:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:24:13 UTC] PHP Stack trace:
+[17-Sep-2015 06:24:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:24:13 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:24:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:24:13 UTC] PHP Stack trace:
+[17-Sep-2015 06:24:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:24:13 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:24:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:24:13 UTC] PHP Stack trace:
+[17-Sep-2015 06:24:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:24:13 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:24:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:24:13 UTC] PHP Stack trace:
+[17-Sep-2015 06:24:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:24:13 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:24:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:24:13 UTC] PHP Stack trace:
+[17-Sep-2015 06:24:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:24:13 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:24:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:24:13 UTC] PHP Stack trace:
+[17-Sep-2015 06:24:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:24:13 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:24:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:24:24 UTC] PHP Stack trace:
+[17-Sep-2015 06:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:24:24 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:24:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:24:24 UTC] PHP Stack trace:
+[17-Sep-2015 06:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:24:24 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:25:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:25:47 UTC] PHP Stack trace:
+[17-Sep-2015 06:25:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:25:47 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:25:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:25:47 UTC] PHP Stack trace:
+[17-Sep-2015 06:25:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:25:47 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:27:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:27:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:06 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:27:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:27:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:06 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:27:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:27:09 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:09 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:27:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:27:09 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:09 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:27:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:27:15 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:15 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:27:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:27:15 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:15 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:27:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:27:28 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:28 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:27:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:27:28 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:28 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:27:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:27:34 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:34 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:27:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:27:34 UTC] PHP Stack trace:
+[17-Sep-2015 06:27:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:27:34 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:29:06 UTC] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:29:06 UTC] PHP Stack trace:
+[17-Sep-2015 06:29:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:29:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:29:27 UTC] PHP Stack trace:
+[17-Sep-2015 06:29:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:29:27 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:29:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:29:27 UTC] PHP Stack trace:
+[17-Sep-2015 06:29:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:29:27 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[17-Sep-2015 06:29:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 14
+[17-Sep-2015 06:29:50 UTC] PHP Stack trace:
+[17-Sep-2015 06:29:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:29:50 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:14
+[17-Sep-2015 06:29:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/verListas.php on line 24
+[17-Sep-2015 06:29:50 UTC] PHP Stack trace:
+[17-Sep-2015 06:29:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[17-Sep-2015 06:29:50 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:24
+[18-Sep-2015 08:07:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/todoList/nLista.php on line 18
+[18-Sep-2015 08:10:00 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:10:00 UTC] PHP Stack trace:
+[18-Sep-2015 08:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:10:00 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:10:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:10:00 UTC] PHP Stack trace:
+[18-Sep-2015 08:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:10:00 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:10:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 11
+[18-Sep-2015 08:10:00 UTC] PHP Stack trace:
+[18-Sep-2015 08:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:10:00 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/nLista.php:11
+[18-Sep-2015 08:10:00 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 14
+[18-Sep-2015 08:10:00 UTC] PHP Stack trace:
+[18-Sep-2015 08:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:10:00 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:14
+[18-Sep-2015 08:10:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 14
+[18-Sep-2015 08:10:00 UTC] PHP Stack trace:
+[18-Sep-2015 08:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:10:00 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:14
+[18-Sep-2015 08:10:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 15
+[18-Sep-2015 08:10:00 UTC] PHP Stack trace:
+[18-Sep-2015 08:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:10:00 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/nLista.php:15
+[18-Sep-2015 08:11:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:11:16 UTC] PHP Stack trace:
+[18-Sep-2015 08:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:11:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:11:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:11:16 UTC] PHP Stack trace:
+[18-Sep-2015 08:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:11:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:11:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 11
+[18-Sep-2015 08:11:16 UTC] PHP Stack trace:
+[18-Sep-2015 08:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:11:16 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/nLista.php:11
+[18-Sep-2015 08:11:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 14
+[18-Sep-2015 08:11:16 UTC] PHP Stack trace:
+[18-Sep-2015 08:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:11:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:14
+[18-Sep-2015 08:11:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 14
+[18-Sep-2015 08:11:16 UTC] PHP Stack trace:
+[18-Sep-2015 08:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:11:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:14
+[18-Sep-2015 08:11:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 15
+[18-Sep-2015 08:11:16 UTC] PHP Stack trace:
+[18-Sep-2015 08:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:11:16 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/nLista.php:15
+[18-Sep-2015 08:20:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:20:38 UTC] PHP Stack trace:
+[18-Sep-2015 08:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:20:38 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:20:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:20:38 UTC] PHP Stack trace:
+[18-Sep-2015 08:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:20:38 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:20:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 11
+[18-Sep-2015 08:20:38 UTC] PHP Stack trace:
+[18-Sep-2015 08:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:20:38 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/nLista.php:11
+[18-Sep-2015 08:20:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 14
+[18-Sep-2015 08:20:38 UTC] PHP Stack trace:
+[18-Sep-2015 08:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:20:38 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:14
+[18-Sep-2015 08:20:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 14
+[18-Sep-2015 08:20:38 UTC] PHP Stack trace:
+[18-Sep-2015 08:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:20:38 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:14
+[18-Sep-2015 08:20:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 15
+[18-Sep-2015 08:20:38 UTC] PHP Stack trace:
+[18-Sep-2015 08:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:20:38 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/nLista.php:15
+[18-Sep-2015 08:40:21 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:40:21 UTC] PHP Stack trace:
+[18-Sep-2015 08:40:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:40:21 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:40:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:40:21 UTC] PHP Stack trace:
+[18-Sep-2015 08:40:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:40:21 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:40:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/todoList/nLista.php on line 11
+[18-Sep-2015 08:40:21 UTC] PHP Stack trace:
+[18-Sep-2015 08:40:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:40:21 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/nLista.php:11
+[18-Sep-2015 08:41:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:41:49 UTC] PHP Stack trace:
+[18-Sep-2015 08:41:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:41:49 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 08:41:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/todoList/nLista.php on line 10
+[18-Sep-2015 08:41:49 UTC] PHP Stack trace:
+[18-Sep-2015 08:41:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 08:41:49 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:10
+[18-Sep-2015 09:04:28 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/ubuntu/workspace/todoList/nLista.php on line 15
+[18-Sep-2015 09:04:28 UTC] PHP Stack trace:
+[18-Sep-2015 09:04:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 09:04:28 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:15
+[18-Sep-2015 09:05:59 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/ubuntu/workspace/todoList/nLista.php on line 15
+[18-Sep-2015 09:05:59 UTC] PHP Stack trace:
+[18-Sep-2015 09:05:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 09:05:59 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:15
+[18-Sep-2015 09:06:48 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/ubuntu/workspace/todoList/nLista.php on line 15
+[18-Sep-2015 09:06:48 UTC] PHP Stack trace:
+[18-Sep-2015 09:06:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/nLista.php:0
+[18-Sep-2015 09:06:48 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/todoList/nLista.php:15
+[18-Sep-2015 09:06:56 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/todoList/cLista.php on line 15
+[18-Sep-2015 09:12:49 UTC] PHP Parse error:  syntax error, unexpected '$sartu' (T_VARIABLE) in /home/ubuntu/workspace/todoList/cLista.php on line 13
+[18-Sep-2015 09:20:23 UTC] PHP Parse error:  syntax error, unexpected '$sartu' (T_VARIABLE) in /home/ubuntu/workspace/todoList/cLista.php on line 13
+[18-Sep-2015 09:23:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/todoList/cLista.php on line 13
+[18-Sep-2015 09:26:49 UTC] PHP Parse error:  syntax error, unexpected '50' (T_LNUMBER), expecting ',' or ';' in /home/ubuntu/workspace/todoList/verListas.php on line 26
+[18-Sep-2015 09:27:03 UTC] PHP Parse error:  syntax error, unexpected '50' (T_LNUMBER), expecting ',' or ';' in /home/ubuntu/workspace/todoList/verListas.php on line 26
+[18-Sep-2015 09:27:03 UTC] PHP Parse error:  syntax error, unexpected '50' (T_LNUMBER), expecting ',' or ';' in /home/ubuntu/workspace/todoList/verListas.php on line 26
+[18-Sep-2015 09:27:05 UTC] PHP Parse error:  syntax error, unexpected '50' (T_LNUMBER), expecting ',' or ';' in /home/ubuntu/workspace/todoList/verListas.php on line 26
+[18-Sep-2015 09:34:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 2 to be long, resource given in /home/ubuntu/workspace/todoList/verListas.php on line 34
+[18-Sep-2015 09:34:14 UTC] PHP Stack trace:
+[18-Sep-2015 09:34:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/todoList/verListas.php:0
+[18-Sep-2015 09:34:14 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/todoList/verListas.php:34
+[18-Sep-2015 09:37:35 UTC] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/ubuntu/workspace/todoList/cLista.php on line 13
